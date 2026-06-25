@@ -2,7 +2,6 @@
 #include <cstdint>
 #include <cstdio>
 #include <cstring>
-#include <exception>
 #include <iostream>
 #include <bitset>
 #include <stdexcept>
